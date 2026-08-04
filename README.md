@@ -1,2 +1,2 @@
 # full-adder.v
-my first verilog project
+verilog implementation of a Full Adder with RTL code,testbench,simulation,and README
